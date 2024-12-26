@@ -8,8 +8,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-model = pickle.load(open("C:/Users/dell/OneDrive/Desktop/New folder/model/model.pkl", 'rb'))
-vectorizer = pickle.load(open("C:/Users/dell/OneDrive/Desktop/New folder/model/Vectorizer.pkl", 'rb'))
+model = pickle.load(open("model/model.pkl", 'rb'))
+vectorizer = pickle.load(open("model/Vectorizer.pkl", 'rb'))
 
 # page configuration
 st.set_page_config(page_title="Sentiment Analysis", page_icon="📝", layout="centered")
