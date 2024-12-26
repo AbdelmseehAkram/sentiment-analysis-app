@@ -1,0 +1,1 @@
+streamlit run "c:/Users/dell/OneDrive/Desktop/New folder/app.py"
