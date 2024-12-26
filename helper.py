@@ -7,7 +7,7 @@ from nltk.stem import PorterStemmer
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.tree import DecisionTreeClassifier
-nltk.download('punkt')
+nltk.download('punkt_tap')
 nltk.download('stopwords')
 nltk.download('wordnet')
 def preprocessing_step(text):
