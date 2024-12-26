@@ -4,7 +4,7 @@ import helper
 import pickle
 import nltk
 
-nltk.download('punkt')
+nltk.download('punkt_tap')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
