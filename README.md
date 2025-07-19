@@ -17,7 +17,9 @@ A simple and interactive **Sentiment Analysis** web application built with **Str
 ## 🖼️ App Interface
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x400?text=App+Screenshot" alt="App Screenshot"/>
+  <a href="https://lnkd.in/dZS3PTnF" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen?style=for-the-badge" alt="Live App"/>
+  </a>
 </p>
 
 ---
